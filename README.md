@@ -2,5 +2,5 @@
 Automating CS459 e-mail tasks using Selenium.
 
 ## Prerequisite
-Download `chromedriver.exe` from (https://chromedriver.chromium.org/)[https://chromedriver.chromium.org/] and locate the file here.
+Download `chromedriver.exe` from [https://chromedriver.chromium.org/](https://chromedriver.chromium.org/) and locate the file here.
 
